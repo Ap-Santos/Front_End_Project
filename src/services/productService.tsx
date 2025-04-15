@@ -7,7 +7,7 @@ export const createProduct = (data) =>{
 export const getAllProducts = () =>{
     return api.get('/products');
 };
-export const getElementById = () =>{
+export const getElementById = (id) =>{
     return api.get(`/products/${id}`);
   };
 
