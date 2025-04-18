@@ -7,9 +7,7 @@ export const createProduct = (data) =>{
 export const getAllProducts = () =>{
     return api.get('/products');
 };
-export const getElementById = (id) =>{
-    return api.get(`/products/${id}`);
-  };
+
 
 export const updateProduct = (id,data) =>{
     return api.put(`/products/${id}`, data);
