@@ -1,13 +1,15 @@
-### Projeto de front-end com um pequeno sistema de e-commerce que permite gerenciar produtos e usuários com operações de **CRUD**, utilizando a Fake Store API para simulação de dados.
+# Gerenciador de Produtos e Usuários
+ 
+Projeto de front-end com um pequeno sistema de e-commerce que permite gerenciar produtos e usuários com operações de **CRUD**, utilizando a Fake Store API para simulação de dados.
 
 
 ## Funcionalidades
 
-- ✅ Listagem de produtos e usuários
-- ✅ Criação, edição e remoção de usuários e produtos
-- ✅ Formulários com validação usando **React Hook Form** + **Yup**
-- ✅ Navegação entre páginas com **React Router**
-- ✅ Estilização com **Material UI**
+-  Listagem de produtos e usuários
+-  Criação, edição e remoção de usuários e produtos
+-  Formulários com validação usando **React Hook Form** + **Yup**
+-  Navegação entre páginas com **React Router**
+-  Estilização com **Material UI**
 
 
 ## Tecnologias usadas
